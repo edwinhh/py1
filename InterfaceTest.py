@@ -5,7 +5,7 @@ import requests, xlrd, time, sys
 from xlutils import copy
 #从xlutils模块中导入copy这个函数
 
-#为了看看能否github
+#为了看看能否github2
 
 dicparam={}
 case_list = []
